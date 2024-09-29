@@ -20,3 +20,5 @@ Technologies Used
 Frontend: [React.js, HTML5, CSS3, Bootstrap]
 Backend: [Node.js, Express.js]
 Database: [MongoDB]
+![Screenshot 2024-09-29 125426](https://github.com/user-attachments/assets/df451b39-324c-471d-93f6-01b9c8a32469)
+
