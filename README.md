@@ -1,4 +1,4 @@
-Name : Parth Mahesh Nandre/n
+Name : Parth Mahesh Nandre
 Company: CODETECH IT SOLUTIONS
 ID: CT08DS7768
 Duration: August to September 2024
